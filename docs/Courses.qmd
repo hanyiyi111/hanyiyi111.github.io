@@ -1,0 +1,51 @@
+---
+title: "Courses"
+---
+::: {.column-page}
+![](books.jpg)
+:::
+
+## Linguistics
+
+EL1101E Nature of Language
+
+EL2151 Social Variation in Language
+
+EL3216 Language and the Internet
+
+## Translation & Interpreting
+INT3201 Sight Interpreting
+
+INT3202 Consecutive Interpreting
+
+## Communications & New Media
+NM1101E Communications, New Media and Society
+
+NM2207 Computational Media Literacy
+
+## Common Cores
+DTK1234 Design Thinking
+
+FAS1101 Academic Writing
+
+HSS1000 Social Complexity
+
+HSH1000 The Human Condition
+
+HSA1000 Asian Interconnectedness
+
+GEA1000 Quantitative Reasoning with Data
+
+GEN2001 Theatre and Community Engagement
+
+HSI1000 How Science Works, Why Science Works
+
+
+
+## Economics
+EC1101E Introduction to Economic Analysis
+
+## Foreign Languages
+LAF1201 French 1
+
+LAF2201 French 2

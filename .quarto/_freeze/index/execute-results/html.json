@@ -1,0 +1,14 @@
+{
+  "hash": "bd3c46e328e153253aadad8b4c63c26f",
+  "result": {
+    "markdown": "---\ntitle: \"Hi! This is Yiyi!\"\n---\n\n# **Introduction**\n::: {.column-margin}\n![Here's a picture of me](My_photo.jpg)\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](My_photo.jpg){width=30%}\n:::\n:::\n\n\n[Week 1](https://github.com/hanyiyi111/NM2207/tree/89d9cbf57ef1d8df8a31b33850666804b92acc28/Week-1)\n<br>\n[Week 2](https://github.com/hanyiyi111/NM2207/tree/89d9cbf57ef1d8df8a31b33850666804b92acc28/Week-2)\n<br>\n[Week 3](https://github.com/hanyiyi111/NM2207/tree/89d9cbf57ef1d8df8a31b33850666804b92acc28/Week-3)\n<br>\n[Week 4](https://github.com/hanyiyi111/NM2207/tree/89d9cbf57ef1d8df8a31b33850666804b92acc28/Week-4)\n<br>\n[Week 5](https://github.com/hanyiyi111/NM2207/tree/89d9cbf57ef1d8df8a31b33850666804b92acc28/Week-5)\n<br>\n[Week 6](https://github.com/hanyiyi111/NM2207/tree/89d9cbf57ef1d8df8a31b33850666804b92acc28/Week-6)\n<br>\n[Week 7](https://github.com/hanyiyi111/NM2207/tree/89d9cbf57ef1d8df8a31b33850666804b92acc28/Week-7)\n<br>\n[Week 8](https://github.com/hanyiyi111/NM2207/tree/89d9cbf57ef1d8df8a31b33850666804b92acc28/Week-8)\n<br>",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
