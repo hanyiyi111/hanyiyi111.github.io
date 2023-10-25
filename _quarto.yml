@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: Yiyi's Page
@@ -8,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - Courses.qmd
-      - Final Project.qmd
+      - Folders.qmd
 
 format:
   html:

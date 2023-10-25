@@ -1,5 +1,5 @@
 ---
-title: "Courses"
+title: "Courses" 
 ---
 ::: {.column-page}
 ![](books.jpg)

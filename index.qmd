@@ -1,5 +1,5 @@
 ---
-title: "Hello and welcome!"
+title: "Hello and welcome!" 
 ---
 I'm thrilled to have you visit my personal website. As a dedicated and passionate professional, I'm eager to introduce myself and provide you with a glimpse of what I bring to the table.
 
