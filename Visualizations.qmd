@@ -1,0 +1,19 @@
+---
+title: "Visualizations" 
+---
+# Eating disorder trends around the world
+
+::: {.callout-tip collapse="false"}
+## What is eating disorder?
+
+(here would be an introduction to eater disorder)
+:::
+
+::: {.callout-tip collapse="false"}
+## Number of patients in different countries
+
+(here would be the interative line graphs)
+
+I will use the "SelectInput" feature in shiny to provide a row of labels representing different countries. Viewers can click on those labels like "the US" "the UK" "Germany" to see trends in specific countries they want to explore.
+![imagined panel](Demonstration.jpg)
+:::

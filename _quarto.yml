@@ -10,6 +10,7 @@ website:
         text: Home
       - Courses.qmd
       - Folders.qmd
+      - Visualizations.qmd
 
 format:
   html:
