@@ -6,7 +6,7 @@ title: "Visualizations"
 ::: {.callout-tip collapse="false"}
 ## What is eating disorder?
 
-(here would be an introduction to eater disorder)
+(here would be an introduction to eating disorder)
 :::
 
 ::: {.callout-tip collapse="false"}
