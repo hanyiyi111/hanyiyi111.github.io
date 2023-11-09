@@ -15,5 +15,5 @@ title: "Visualizations"
 (here would be the interative line graphs)
 
 I will use the "SelectInput" feature in shiny to provide a row of labels representing different countries. Viewers can click on those labels like "the US" "the UK" "Germany" to see trends in specific countries they want to explore.
-![imagined panel](Demonstration.jpg)
+<iframe height="400" width="100%" frameborder="no" src="https://hanyiyi111.shinyapps.io/Eating_disorders/"> </iframe>
 :::

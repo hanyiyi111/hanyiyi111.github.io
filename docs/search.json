@@ -60,7 +60,7 @@
     "href": "Visualizations.html",
     "title": "Visualizations",
     "section": "",
-    "text": "Eating disorder trends around the world\n\n\n\n\n\n\nWhat is eating disorder?\n\n\n\n\n\n(here would be an introduction to eater disorder)\n\n\n\n\n\n\n\n\n\nNumber of patients in different countries\n\n\n\n\n\n(here would be the interative line graphs)\nI will use the “SelectInput” feature in shiny to provide a row of labels representing different countries. Viewers can click on those labels like “the US” “the UK” “Germany” to see trends in specific countries they want to explore."
+    "text": "Eating disorder trends around the world\n\n\n\n\n\n\nWhat is eating disorder?\n\n\n\n\n\n(here would be an introduction to eating disorder)\n\n\n\n\n\n\n\n\n\nNumber of patients in different countries\n\n\n\n\n\n(here would be the interative line graphs)\nI will use the “SelectInput” feature in shiny to provide a row of labels representing different countries. Viewers can click on those labels like “the US” “the UK” “Germany” to see trends in specific countries they want to explore."
   },
   {
     "objectID": "Visualizations.html#what-is-eating-disorder",
