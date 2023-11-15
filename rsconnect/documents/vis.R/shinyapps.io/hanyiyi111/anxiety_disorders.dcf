@@ -1,12 +1,12 @@
-name: Eating_disorders
-title: Eating_disorders
+name: anxiety_disorders
+title: anxiety_disorders
 username: hanyiyi111
 account: hanyiyi111
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 10455770
-bundleId: 7929511
-url: https://hanyiyi111.shinyapps.io/Eating_disorders/
+appId: 10530513
+bundleId: 7929522
+url: https://hanyiyi111.shinyapps.io/anxiety_disorders/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE

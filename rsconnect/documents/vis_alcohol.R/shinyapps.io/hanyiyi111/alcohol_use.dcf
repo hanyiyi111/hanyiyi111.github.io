@@ -1,12 +1,12 @@
-name: Eating_disorders
-title: Eating_disorders
+name: alcohol_use
+title: alcohol_use
 username: hanyiyi111
 account: hanyiyi111
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 10455770
-bundleId: 7929511
-url: https://hanyiyi111.shinyapps.io/Eating_disorders/
+appId: 10530561
+bundleId: 7929539
+url: https://hanyiyi111.shinyapps.io/alcohol_use/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE

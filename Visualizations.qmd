@@ -1,19 +1,138 @@
 ---
-title: "Visualizations" 
+title-block-banner: skyblue
+title: "We Care about Mental Health" 
+date: 2023-11-15
 ---
-# Eating disorder trends around the world
+
+## What are mental disorders?
+
+A mental disorder is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behaviour.  It is usually associated with distress or impairment in important areas of functioning. (World Health Organization: WHO, 2022)
+
+As a matter of fact, mental disorders are not as distant from our lives as we may imagine. It is very common for people to suffer from one or multiple mental disorders. More importantly, we should develop a healthy perception about them.
+
+{{< video https://www.youtube.com/watch?v=SwdbL0LAZGY width="700" height="400">}}
+
+## Why is mental health important to us?
+
+::: {.column-margin}
+![Mental health disorders in our lives](mental_health.jpg)
+:::
+
+**Mental health disorders are omnipresent in our lives**
+
+WHO reports that mental health disorders are common and can affect anyone, regardless of age, gender, or socioeconomic status.
+
+
+**Mental health disorders can damage physical health**
+
+According to a research published in JAMA has shown that poor mental health is linked to a higher risk of physical health problems, including heart disease, diabetes, and reduced life expectancy.
+
+::: {.column-margin}
+![Mental health issues can cause huge expenditure](money.jpg)
+:::
+
+**Mental health disorders can cause huge economic burden**
+
+As evidenced by a study by the World Economic Forum, mental health conditions are estimated to cost the global economy $16 trillion by 2030.
+
+
+## Types of mental disorders
+
+Anxiety disorders
+
+Depression
+
+Bipolar disorder
+
+Post-Traumatic Stress Disorder (PTSD)
+
+Schizophrenia
+
+Eating disorders
+
+......
+
+## Anxiety disorders trends around the world
+
+::: {.column-margin}
+![Anxiety disorders](anxiety.jpg)
+:::
 
 ::: {.callout-tip collapse="false"}
-## What is eating disorder?
+## What are anxiety disorders?
 
-(here would be an introduction to eating disorder)
+Occasional anxiety is normal, but anxiety disorders involve persistent, intense worry about daily situations, often leading to sudden and intense panic attacks.
 :::
 
 ::: {.callout-tip collapse="false"}
 ## Number of patients in different countries
 
-(here would be the interative line graphs)
+<iframe height="500" width="100%" frameborder="no" src="https://hanyiyi111.shinyapps.io/anxiety_disorders/"> </iframe>
 
-I will use the "SelectInput" feature in shiny to provide a row of labels representing different countries. Viewers can click on those labels like "the US" "the UK" "Germany" to see trends in specific countries they want to explore.
-<iframe height="400" width="100%" frameborder="no" src="https://hanyiyi111.shinyapps.io/Eating_disorders/"> </iframe>
 :::
+
+## Depression trends around the world
+
+::: {.column-margin}
+![Depression](depression.jpg)
+:::
+
+::: {.callout-tip collapse="false"}
+## What is Depression?
+
+Depression is a common, treatable medical condition that affects emotions, thoughts, and behavior, causing sadness, loss of interest, and impairing daily functioning.
+:::
+
+::: {.callout-tip collapse="false"}
+## Number of patients in different countries
+
+<iframe height="500" width="100%" frameborder="no" src="https://hanyiyi111.shinyapps.io/depression/"> </iframe>
+
+:::
+
+
+## Alcohol Use Disorder trends around the world
+
+::: {.column-margin}
+![Alcohol use disorder](alcohol.jpg)
+:::
+
+::: {.callout-tip collapse="false"}
+## What is Alcohol Use Disorder?
+
+Alcohol use disorder refers to a drinking pattern characterized by difficulty in control, preoccupation with alcohol, and continued use despite resulting issues. It also encompasses increased tolerance and withdrawal symptoms when alcohol consumption is reduced or stopped suddenly, often referred to as alcoholism.
+:::
+
+::: {.callout-tip collapse="false"}
+## Number of patients in different countries
+
+<iframe height="500" width="100%" frameborder="no" src="https://hanyiyi111.shinyapps.io/alcohol_use/"> </iframe>
+
+:::
+
+## Reach out for help
+If you're struggling and need someone to talk to in Singapore, remember that help is available. Reach out to the following resources:
+
+**Samaritans of Singapore (SOS):**
+
+Helpline: 1800 221 4444
+
+Email Befriending: pat@sos.org.sg
+
+**Singapore Association for Mental Health (SAMH) Helpline:**
+
+Helpline: 1800 283 7019
+
+**Institute of Mental Health (IMH) Helpline:**
+
+Helpline: 6389 2222
+
+Remember, you don't have to face it alone. Your mental health matters, and these organizations are here to provide support and understanding.
+
+
+
+## Story of the data
+
+The original csv. file is obtained from Atim (@amitd) at data.world. This dataset contains information from countries all over the world about the prevalence of mental health disorders from 1990 to 2017. 
+
+The journey of visualizing this dataset is full of twists and turns. 

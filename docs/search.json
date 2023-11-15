@@ -58,9 +58,9 @@
   {
     "objectID": "Visualizations.html",
     "href": "Visualizations.html",
-    "title": "Visualizations",
+    "title": "We Care about Mental Health",
     "section": "",
-    "text": "Eating disorder trends around the world\n\n\n\n\n\n\nWhat is eating disorder?\n\n\n\n\n\n(here would be an introduction to eating disorder)\n\n\n\n\n\n\n\n\n\nNumber of patients in different countries\n\n\n\n\n\n(here would be the interative line graphs)\nI will use the “SelectInput” feature in shiny to provide a row of labels representing different countries. Viewers can click on those labels like “the US” “the UK” “Germany” to see trends in specific countries they want to explore."
+    "text": "A mental disorder is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behaviour. It is usually associated with distress or impairment in important areas of functioning. (World Health Organization: WHO, 2022)\nAs a matter of fact, mental disorders are not as distant from our lives as we may imagine. It is very common for people to suffer from one or multiple mental disorders. More importantly, we should develop a healthy perception about them."
   },
   {
     "objectID": "Visualizations.html#what-is-eating-disorder",
@@ -82,5 +82,61 @@
     "title": "Visualizations",
     "section": "",
     "text": "(here would be the interative line graphs)\nI will use the “SelectInput” feature in shiny to provide a row of labels representing different countries. Viewers can click on those labels like “the US” “the UK” “Germany” to see trends in specific countries they want to explore."
+  },
+  {
+    "objectID": "Visualizations.html#what-are-mental-disorders",
+    "href": "Visualizations.html#what-are-mental-disorders",
+    "title": "We Care about Mental Health",
+    "section": "",
+    "text": "A mental disorder is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behaviour. It is usually associated with distress or impairment in important areas of functioning. (World Health Organization: WHO, 2022)\nAs a matter of fact, mental disorders are not as distant from our lives as we may imagine. It is very common for people to suffer from one or multiple mental disorders. More importantly, we should develop a healthy perception about them."
+  },
+  {
+    "objectID": "Visualizations.html#why-is-mental-health-important-to-us",
+    "href": "Visualizations.html#why-is-mental-health-important-to-us",
+    "title": "We Care about Mental Health",
+    "section": "Why is mental health important to us?",
+    "text": "Why is mental health important to us?\n\n\n\n\n\nMental health disorders in our lives\n\n\nMental health disorders are omnipresent in our lives\nWHO reports that mental health disorders are common and can affect anyone, regardless of age, gender, or socioeconomic status.\nMental health disorders can damage physical health\nAccording to a research published in JAMA has shown that poor mental health is linked to a higher risk of physical health problems, including heart disease, diabetes, and reduced life expectancy.\n\n\n\n\n\nMental health issues can cause huge expenditure\n\n\nMental health disorders can cause huge economic burden\nAs evidenced by a study by the World Economic Forum, mental health conditions are estimated to cost the global economy $16 trillion by 2030."
+  },
+  {
+    "objectID": "Visualizations.html#types-of-mental-disorders",
+    "href": "Visualizations.html#types-of-mental-disorders",
+    "title": "We Care about Mental Health",
+    "section": "Types of mental disorders",
+    "text": "Types of mental disorders\nAnxiety disorders\nDepression\nBipolar disorder\nPost-Traumatic Stress Disorder (PTSD)\nSchizophrenia\nEating disorders\n……"
+  },
+  {
+    "objectID": "Visualizations.html#story-of-the-data",
+    "href": "Visualizations.html#story-of-the-data",
+    "title": "We Care about Mental Health",
+    "section": "Story of the data",
+    "text": "Story of the data\nThe original csv. file is obtained from Atim (@amitd) at data.world. This dataset contains information from countries all over the world about the prevalence of mental health disorders from 1990 to 2017.\nThe journey of visualizing this dataset is full of twists and turns."
+  },
+  {
+    "objectID": "Visualizations.html#anxiety-disorders-trends-around-the-world",
+    "href": "Visualizations.html#anxiety-disorders-trends-around-the-world",
+    "title": "We Care about Mental Health",
+    "section": "Anxiety disorders trends around the world",
+    "text": "Anxiety disorders trends around the world\n\n\n\n\n\nAnxiety disorders\n\n\n\n\n\n\n\n\nWhat are anxiety disorders?\n\n\n\n\n\nOccasional anxiety is normal, but anxiety disorders involve persistent, intense worry about daily situations, often leading to sudden and intense panic attacks.\n\n\n\n\n\n\n\n\n\nNumber of patients in different countries"
+  },
+  {
+    "objectID": "Visualizations.html#alcohol-use-disorder-trends-around-the-world",
+    "href": "Visualizations.html#alcohol-use-disorder-trends-around-the-world",
+    "title": "We Care about Mental Health",
+    "section": "Alcohol Use Disorder trends around the world",
+    "text": "Alcohol Use Disorder trends around the world\n\n\n\n\n\nAlcohol use disorder\n\n\n\n\n\n\n\n\nWhat is Alcohol Use Disorder?\n\n\n\n\n\nAlcohol use disorder refers to a drinking pattern characterized by difficulty in control, preoccupation with alcohol, and continued use despite resulting issues. It also encompasses increased tolerance and withdrawal symptoms when alcohol consumption is reduced or stopped suddenly, often referred to as alcoholism.\n\n\n\n\n\n\n\n\n\nNumber of patients in different countries"
+  },
+  {
+    "objectID": "Visualizations.html#depression-trends-around-the-world",
+    "href": "Visualizations.html#depression-trends-around-the-world",
+    "title": "We Care about Mental Health",
+    "section": "Depression trends around the world",
+    "text": "Depression trends around the world\n\n\n\n\n\nDepression\n\n\n\n\n\n\n\n\nWhat is Depression?\n\n\n\n\n\nDepression is a common, treatable medical condition that affects emotions, thoughts, and behavior, causing sadness, loss of interest, and impairing daily functioning.\n\n\n\n\n\n\n\n\n\nNumber of patients in different countries"
+  },
+  {
+    "objectID": "Visualizations.html#reach-out-for-help",
+    "href": "Visualizations.html#reach-out-for-help",
+    "title": "We Care about Mental Health",
+    "section": "Reach out for help",
+    "text": "Reach out for help\nIf you’re struggling and need someone to talk to in Singapore, remember that help is available. Reach out to the following resources:\nSamaritans of Singapore (SOS):\nHelpline: 1800 221 4444\nEmail Befriending: pat@sos.org.sg\nSingapore Association for Mental Health (SAMH) Helpline:\nHelpline: 1800 283 7019\nInstitute of Mental Health (IMH) Helpline:\nHelpline: 6389 2222\nRemember, you don’t have to face it alone. Your mental health matters, and these organizations are here to provide support and understanding."
   }
 ]
