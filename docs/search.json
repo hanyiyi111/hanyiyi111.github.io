@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hello and welcome!",
     "section": "",
-    "text": "I’m thrilled to have you visit my personal website. As a dedicated and passionate professional, I’m eager to introduce myself and provide you with a glimpse of what I bring to the table.\nNM2207 Folders\n\nWho I Am\nI’m Han Yiyi, an enthusiastic and professional linguist and translator.\n\n\n\n\n\nHere’s a picture of me\n\n\nI come from China, and I’m studying BA in English Language at National University of Singapore.\nMy journey in this field has been marked by a deep commitment to continuous learning and growth, and I’m constantly seeking new opportunities to expand my horizons.\n\n\nWhat I Can Do\nFields to Work In: Translation, Interpreting, Linguistic Research, Creative Writing, Public Relations, Publicity, Design …\nLanguages: English (Fluent, IELTS 8/9), Mandarin (Native), Cantonese (Fair), French (Basic)\nIT Skills: Competent use of Microsoft Office packages and video editing tools\n\n\nLet’s Connect\nI’m always open to new connections and opportunities. Feel free to explore my website to learn more about my background, projects, and interests. If you believe that I could be a valuable asset to your organization or if you’d like to discuss potential collaborations, please don’t hesitate to get in touch with me."
+    "text": "I’m thrilled to have you visit my personal website. As a dedicated and passionate professional, I’m eager to introduce myself and provide you with a glimpse of what I bring to the table.\n\nWho I Am\nI’m Han Yiyi, an enthusiastic and professional linguist and translator.\n\n\n\n\n\nHere’s a picture of me\n\n\nI come from China, and I’m studying BA in English Language at National University of Singapore.\nMy journey in this field has been marked by a deep commitment to continuous learning and growth, and I’m constantly seeking new opportunities to expand my horizons.\n\n\nWhat I Can Do\nFields to Work In: Translation, Interpreting, Linguistic Research, Creative Writing, Public Relations, Publicity, Design …\nLanguages: English (Fluent, IELTS 8/9), Mandarin (Native), Cantonese (Fair), French (Basic)\nIT Skills: Competent use of Microsoft Office packages and video editing tools\n\n\nLet’s Connect\nI’m always open to new connections and opportunities. Feel free to explore my website to learn more about my background, projects, and interests. If you believe that I could be a valuable asset to your organization or if you’d like to discuss potential collaborations, please don’t hesitate to get in touch with me."
   },
   {
     "objectID": "Courses.html#linguistics",
@@ -60,7 +60,7 @@
     "href": "Visualizations.html",
     "title": "We Care about Mental Health",
     "section": "",
-    "text": "A mental disorder is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behaviour. It is usually associated with distress or impairment in important areas of functioning. (World Health Organization: WHO, 2022)\nAs a matter of fact, mental disorders are not as distant from our lives as we may imagine. It is very common for people to suffer from one or multiple mental disorders. More importantly, we should develop a healthy perception about them."
+    "text": "A mental disorder is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behavior. It is usually associated with distress or impairment in important areas of functioning. (World Health Organization: WHO, 2019)\nAs a matter of fact, mental disorders are not as distant from our lives as we may imagine. It is very common for people to suffer from one or multiple mental disorders. More importantly, we should develop a healthy perception about them."
   },
   {
     "objectID": "Visualizations.html#what-is-eating-disorder",
@@ -88,7 +88,7 @@
     "href": "Visualizations.html#what-are-mental-disorders",
     "title": "We Care about Mental Health",
     "section": "",
-    "text": "A mental disorder is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behaviour. It is usually associated with distress or impairment in important areas of functioning. (World Health Organization: WHO, 2022)\nAs a matter of fact, mental disorders are not as distant from our lives as we may imagine. It is very common for people to suffer from one or multiple mental disorders. More importantly, we should develop a healthy perception about them."
+    "text": "A mental disorder is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behavior. It is usually associated with distress or impairment in important areas of functioning. (World Health Organization: WHO, 2019)\nAs a matter of fact, mental disorders are not as distant from our lives as we may imagine. It is very common for people to suffer from one or multiple mental disorders. More importantly, we should develop a healthy perception about them."
   },
   {
     "objectID": "Visualizations.html#why-is-mental-health-important-to-us",
@@ -109,7 +109,7 @@
     "href": "Visualizations.html#story-of-the-data",
     "title": "We Care about Mental Health",
     "section": "Story of the data",
-    "text": "Story of the data\nThe original csv. file is obtained from kaggle.com, which is from Atim (@amitd) at data.world. This dataset contains information from countries all over the world about the prevalence of mental health disorders from 1990 to 2017. (Data source)\nThe data reveals a general increasing trend in the prevalence of mental health disorders across various regions from 1990 to 2017. This shows that mental disorders are commonly seen and is becoming more of a threat to us.\nAlso, we can see some factors from comparision of different regions, such as economic strengths (developed vs developing countries) and population."
+    "text": "Story of the data\nThe original csv. file is obtained from kaggle.com, which is from Atim (@amitd) at data.world. This dataset contains information from countries all over the world about the prevalence of mental health disorders from 1990 to 2017. (Data source)\nThe data reveals a general increasing trend in the prevalence of mental health disorders across various regions from 1990 to 2017. This shows that mental disorders are commonly seen and is becoming more of a threat to us.\nAlso, we can see some factors from comparison of different regions, such as economic strengths (developed vs developing countries) and population. Sometimes we can even see a drop in the percentage of people suffering from mental disorders, and that is because the overall population is growing faster than patients."
   },
   {
     "objectID": "Visualizations.html#anxiety-disorders-trends-around-the-world",
